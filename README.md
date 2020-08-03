@@ -2,7 +2,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanisukeGoro&layout=compact&theme=monokai)
 
 
-Note: Ranks are calculated based on user's stats, see [src/calculateRank.js](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js)
+> Note: Ranks are calculated based on user's stats, see [src/calculateRank.js](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js)
 
 <!--
 **TanisukeGoro/TanisukeGoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
