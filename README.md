@@ -1,5 +1,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanisukeGoro&count_private=true&show_icons=true&theme=monokai)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanisukeGoro&layout=compact&theme=monokai)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanisukeGoro&layout=compact&theme=monokai) -->
 
 
 > Note: Ranks are calculated based on user's stats, see [src/calculateRank.js](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js)
