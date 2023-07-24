@@ -1,4 +1,4 @@
-![GitHub Stats]([https://github-readme-stats-tanisukegoro.vercel.app/api?username=TanisukeGoro&count_private=true&show_icons=true&theme=monokai](https://github-readme-stats.vercel.app/api?username=TanisukeGoro&count_private=true&show_icons=true&theme=monokai))
+![GitHub Stats](https://github-readme-stats-tanisukegoro.vercel.app/api?username=TanisukeGoro&count_private=true&show_icons=true&theme=monokai)
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanisukeGoro&layout=compact&thhttps://github-readme-stats.vercel.app/api?username=TanisukeGoro&count_private=true&show_icons=true&theme=monokaieme=monokai) -->
 
 
